@@ -4,7 +4,5 @@
 
 Module walkthrough challenge
 
-
 ## Links 
-Deployed Website 
-Example project sample 
+Deployed Website here
